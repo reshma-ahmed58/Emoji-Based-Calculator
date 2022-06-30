@@ -30,4 +30,4 @@ This project is created using the PHP language with CSS and HTML. This project w
 4. Select option is used to show the drop-down box on the screen.
 
 
-5.The calculation action is performed with the PHP code which includes the switch case method to evaluate the result.
+ 5.The calculation action is performed with the PHP code which includes the switch case method to evaluate the result.
